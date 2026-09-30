@@ -40,4 +40,4 @@ def verificar_stock(cantidad):
 - [Ver Guia de Despliegue](docs/despliegue.md)
 - [Ver Politicas de Seguridad](docs/seguridad.md)
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
-- [Repositorio Oficial en GitHub] (https://github.com/gaps3600/documentacion-sistema-v1-)
+- [Repositorio Oficial en GitHub] (https://cruzcito503.github.io/documentacion-sistema-v1/)
